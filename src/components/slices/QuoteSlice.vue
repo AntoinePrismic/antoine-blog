@@ -19,10 +19,10 @@ export default {
   font-size: 24px;
 }
 .block-quotation:before {
-  content: "cunt "
+  content: "« "
 }
 .block-quotation:after {
-  content: " tnuc"
+  content: " »"
 }
 .block-citation {
   display: inline-block;
